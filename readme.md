@@ -2,10 +2,10 @@
 simple method for simulating markov chains in pure nim
 
 ## Usage
-Run with nimble
+Put the following line in your .nimble file
 
-```bash
-nimble run markov
+```nim
+requires "https://github.com/swag31415/Markov"
 ```
 
 ## Program Requirements
