@@ -5,7 +5,6 @@ author        = "swag31415"
 description   = "simple method for simulating markov chains in pure nim"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["markov"]
 
 backend       = "cpp"
 
